@@ -1,0 +1,9 @@
+pwd: Ubicacion actual
+mkdir: creacion de carpeta
+touch: creacion archivo
+
+Como moverme
+cd: para moverme entre capetas
+cd ..:para regresar a la carpeta atenrior
+ls: listar
+git --version: version de git
