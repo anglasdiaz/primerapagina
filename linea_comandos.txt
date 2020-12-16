@@ -13,3 +13,4 @@ git checkout "codigo de commit": viajar al commit
 git branch: ver las ramas que tenemos
 git checkout "nombre del rama": para cambiarse de rama
 git checkout master: para regresar al master
+git branch -D nombrerama: eliminar la rama deseada
