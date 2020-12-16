@@ -8,4 +8,5 @@ cd ..:para regresar a la carpeta atenrior
 ls: listar
 git --version: version de git
 git log --online: los registros de los commits
+git log --online --graph: ver los registro de los commits mas amigables
 git checkout "codigo de commit": viajar al commit 
