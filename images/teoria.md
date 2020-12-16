@@ -14,4 +14,7 @@
     -Todos los cambios confirmados, o cambios realizados
     
 1    -       2       -        3
-  (git add)     (git commit) -->
+  (git add)     (git commit)
+  
+   moficando -->
+ 
