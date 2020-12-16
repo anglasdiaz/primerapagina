@@ -8,5 +8,8 @@ cd ..:para regresar a la carpeta atenrior
 ls: listar
 git --version: version de git
 git log --online: los registros de los commits
-git log --online --graph: ver los registro de los commits mas amigables
+git log --online --graph --all: ver los registro de los commits mas amigables
 git checkout "codigo de commit": viajar al commit 
+git branch: ver las ramas que tenemos
+git checkout "nombre del rama": para cambiarse de rama
+git checkout master: para regresar al master
