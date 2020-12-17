@@ -15,3 +15,4 @@ git branch nombredelarama: para crear un rama
 git checkout "nombre del rama": para cambiarse de rama
 git checkout master: para regresar al master
 git branch -D nombrerama: eliminar la rama deseada
+git push -u origin master: para subir a la nube
