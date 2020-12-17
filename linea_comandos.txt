@@ -11,6 +11,7 @@ git log --online: los registros de los commits
 git log --online --graph --all: ver los registro de los commits mas amigables
 git checkout "codigo de commit": viajar al commit 
 git branch: ver las ramas que tenemos
+git branch nombredelarama: para crear un rama
 git checkout "nombre del rama": para cambiarse de rama
 git checkout master: para regresar al master
 git branch -D nombrerama: eliminar la rama deseada
